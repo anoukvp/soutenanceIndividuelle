@@ -1,0 +1,32 @@
+.form {
+	box-shadow: 0 0 10px black;
+	border-radius:10px;
+	width:550px;
+	display:block;
+	margin:120px auto;
+	padding: 15px;
+	background: white;
+}
+
+
+h1 {
+    display: block;
+    margin-top: auto;
+    text-align: center;
+    font-family: Cambria;
+
+}
+
+.input,
+.button {
+	display:block;
+	margin:30px auto;
+	font-family:Arial;
+}
+
+.button {
+	padding:10px 20px;
+	border-radius:20px;
+	border:solid 1px black;
+	cursor: pointer;
+}
